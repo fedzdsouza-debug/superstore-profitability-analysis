@@ -7,6 +7,8 @@
 
 Revenue and profit aren't the same thing. I used a two-stage approach — Excel PivotTables for fast exploration, then row-level SQL queries to confirm or correct what the exploration suggested — to find where Superstore was actually losing money, and why.
 
+ ![Excel Pivot Dashboard](Superstore pivot tables analysis.png)
+
 ## Process
 
 **Excel:** Built four pivots (Region &times; Category, monthly trend, profit by discount level, sub-category ranking). This surfaced the first signal: **Furniture generated nearly as much revenue as Technology but a fraction of the profit**, and **Central had the weakest margin despite not having the lowest sales** — pointing toward over-discounted Furniture, especially Tables and Bookcases, as the likely cause.
