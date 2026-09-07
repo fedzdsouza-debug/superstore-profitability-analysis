@@ -7,7 +7,7 @@
 
 Revenue and profit aren't the same thing. I used a two-stage approach — Excel PivotTables for fast exploration, then row-level SQL queries to confirm or correct what the exploration suggested — to find where Superstore was actually losing money, and why.
 
- ![Excel Pivot Dashboard](Superstore pivot tables analysis.png)
+ ![Excel Pivot Dashboard](superstore_pivot_dashboard.png)
 
 ## Process
 
